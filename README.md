@@ -34,7 +34,7 @@
 ![jupyter](https://img.shields.io/badge/-Jupyter_Lab-818589?style=for-the-badge&logo=jupyter&logoColor=orange) 
 ![pandas](https://img.shields.io/badge/-Pandas-321637?style=for-the-badge&logo=pandas&logoColor=white) 
 ![numpy](https://img.shields.io/badge/-NumPy-5092e4?style=for-the-badge&logo=numpy&logoColor=D4EFEB) 
-![sns](https://img.shields.io/badge/-Seaborn-7a85bd?style=for-the-badge&logo=seaborn&logoColor=D4EFEB) 
+![sns](https://seaborn.pydata.org/_images/logo-mark-lightbg.svg)
 ![plt](https://img.shields.io/badge/-Matplotlib-095090?style=for-the-badge&logo=matplotlib&logoColor=D4EFEB)
 
 ![scipy](https://img.shields.io/badge/-SciPy-094e8b?style=for-the-badge&logo=scipy&logoColor=white) 
