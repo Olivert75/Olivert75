@@ -8,7 +8,7 @@
     <a href = "www.linkedin.com/in/oliver-ton">
          <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white">
     </a>
-    <a href= "oliver.ton75@gmail.com">
+    <a href= mailto: oliver.ton75@gmail.com>
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
     <img src="https://komarev.com/ghpvc/?username=Olivert75">
