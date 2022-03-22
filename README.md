@@ -27,11 +27,20 @@
 
 <h3 align="left">Tools:</h3>
 
-![jupyter](https://img.shields.io/badge/-Jupyter_Lab-5F5B8F?style=plastic&logo=jupyter&logoColor=orange) 
-![pandas](https://img.shields.io/badge/-Pandas-purple?style=plastic&logo=pandas&logoColor=white) 
-![numpy](https://img.shields.io/badge/-NumPy-5F5B8F?style=plastic&logo=numpy&logoColor=D4EFEB) 
-![sns](https://img.shields.io/badge/-Seaborn-5F5B8F?style=plastic&logo=github&logoColor=D4EFEB) 
-![plt](https://img.shields.io/badge/-Matplotlib-5F5B8F?style=plastic&logo=github&logoColor=D4EFEB)
+![jupyter](https://img.shields.io/badge/-Jupyter_Lab-5F5B8F?style=for-the-badge&logo=jupyter&logoColor=orange) 
+![pandas](https://img.shields.io/badge/-Pandas-purple?style=for-the-badge&logo=pandas&logoColor=white) 
+![numpy](https://img.shields.io/badge/-NumPy-5F5B8F?style=for-the-badge&logo=numpy&logoColor=D4EFEB) 
+![sns](https://img.shields.io/badge/-Seaborn-5F5B8F?style=for-the-badge&logo=github&logoColor=D4EFEB) 
+![plt](https://img.shields.io/badge/-Matplotlib-5F5B8F?style=for-the-badge&logo=github&logoColor=D4EFEB)
 
-![scipy](https://img.shields.io/badge/-SciPy-5F5B8F?style=plastic&logo=scipy&logoColor=white) 
-![sklearn](https://img.shields.io/badge/-SciKit--Learn-5F5B8F?style=plastic&logo=scikit-learn&logoColor=white) ![terminal](https://img.shields.io/badge/-Terminal-black?style=plastic&logo=apple&logoColor=white) ![tableau](https://img.shields.io/badge/-Tableau-blue?style=plastic&logo=tableau&logoColor=white) ![excel](https://img.shields.io/badge/-Excel-green?style=plastic&logo=microsoft-excel&logoColor=white) ![google](https://img.shields.io/badge/-Google_Sheets-darkgreen?style=plastic&logo=googlesheets&logoColor=white)  
+![scipy](https://img.shields.io/badge/-SciPy-5F5B8F?style=for-the-badge&logo=scipy&logoColor=white) 
+![sklearn](https://img.shields.io/badge/-SciKit--Learn-5F5B8F?style=for-the-badge&logo=scikit-learn&logoColor=white) ![terminal](https://img.shields.io/badge/-Terminal-black?style=for-the-badge&logo=apple&logoColor=white) ![tableau](https://img.shields.io/badge/-Tableau-blue?style=for-the-badge&logo=tableau&logoColor=white) ![excel](https://img.shields.io/badge/-Excel-green?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![google](https://img.shields.io/badge/-Google_Sheets-darkgreen?style=for-the-badge&logo=googlesheets&logoColor=white)  
+
+<h3 align="left">Language:</h3>
+<div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="30" height="40"/>&nbsp;">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="30" height="40"/>&nbsp;">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="30" height="40"/>&nbsp;">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="30" height="40"/>&nbsp;">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="30" height="40"/>&nbsp;">
+</div>
