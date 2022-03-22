@@ -4,6 +4,7 @@
 </div>
 ---
 
+
 <h3>:mailbox: Reach me at:</h3>
 
 <div id="badge">
@@ -15,6 +16,7 @@
     </a>
 </div>
 ---
+
 
 <h3 align="left"> About Me: </h3>
 <p>
@@ -28,6 +30,7 @@
 </p>
 ---
 
+
 <h3 align="left">Tools:</h3>
 
 ![jupyter](https://img.shields.io/badge/-Jupyter_Lab-5F5B8F?style=for-the-badge&logo=jupyter&logoColor=orange) 
@@ -40,6 +43,7 @@
 ![sklearn](https://img.shields.io/badge/-SciKit--Learn-5F5B8F?style=for-the-badge&logo=scikit-learn&logoColor=white) ![terminal](https://img.shields.io/badge/-Terminal-black?style=for-the-badge&logo=apple&logoColor=white) ![tableau](https://img.shields.io/badge/-Tableau-blue?style=for-the-badge&logo=tableau&logoColor=white) ![excel](https://img.shields.io/badge/-Excel-green?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![google](https://img.shields.io/badge/-Google_Sheets-darkgreen?style=for-the-badge&logo=googlesheets&logoColor=white)  
 
 ---
+
 
 <h3 align="left">Language:</h3>
 <div>
