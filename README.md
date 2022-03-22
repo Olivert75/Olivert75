@@ -17,11 +17,11 @@
 
 <h3 align="left"> About Me: </h3>
 <p>
-- :seedling: I am currently a student Codeup <img src="https://img.shields.io/badge/Codeup-green?logo=Codeup&logoColor=white">, Expected Graduation: June 2022
+- :seedling: I am currently a student at <a href ="https://codeup.com"></a><img src="https://img.shields.io/badge/Codeup-green?logo=Codeup&logoColor=white">, Expected Graduation: June 2022
 </p>
 <p>
 - :mortar_board: Texas State alumni! BBA in Computer Infomation System(CIS) - August 2020
 </p>
 <p>
-- :video_game: I play video games in my free time, you might to able find on <img src="https://img.shields.io/badge/Steam-blue?logo=Steam&logoColor=white">
+- :video_game: I play video games in my free time, you might able to find me on <img src="https://img.shields.io/badge/Steam-blue?logo=Steam&logoColor=white">
 </p>
