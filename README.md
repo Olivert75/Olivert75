@@ -50,10 +50,3 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="30" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="30" height="40"/>&nbsp;
 </div>
-
----
-
-<h3 align="left">STATS:</h3>
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=Olivert75&theme=gotham)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Olivert75&theme=gotham)](https://git.io/streak-stats)
