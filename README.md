@@ -26,11 +26,7 @@
 </p>
 
 <h3 align="left">Tools:</h3>
-![jupyter](https://img.shields.io/badge/-Jupyter_Lab-5F5B8F?style=plastic&logo=jupyter&logoColor=orange) 
-![pandas](https://img.shields.io/badge/-Pandas-purple?style=plastic&logo=pandas&logoColor=white) 
-![numpy](https://img.shields.io/badge/-NumPy-5F5B8F?style=plastic&logo=numpy&logoColor=D4EFEB) 
-![sns](https://img.shields.io/badge/-Seaborn-5F5B8F?style=plastic&logo=github&logoColor=D4EFEB) 
-![plt](https://img.shields.io/badge/-Matplotlib-5F5B8F?style=plastic&logo=github&logoColor=D4EFEB)
+![jupyter](https://img.shields.io/badge/-Jupyter_Lab-5F5B8F?style=plastic&logo=jupyter&logoColor=orange) ![pandas](https://img.shields.io/badge/-Pandas-purple?style=plastic&logo=pandas&logoColor=white) ![numpy](https://img.shields.io/badge/-NumPy-5F5B8F?style=plastic&logo=numpy&logoColor=D4EFEB) ![sns](https://img.shields.io/badge/-Seaborn-5F5B8F?style=plastic&logo=github&logoColor=D4EFEB) ![plt](https://img.shields.io/badge/-Matplotlib-5F5B8F?style=plastic&logo=github&logoColor=D4EFEB)
 
 ![scipy](https://img.shields.io/badge/-SciPy-5F5B8F?style=plastic&logo=scipy&logoColor=white) 
 ![sklearn](https://img.shields.io/badge/-SciKit--Learn-5F5B8F?style=plastic&logo=scikit-learn&logoColor=white) ![terminal](https://img.shields.io/badge/-Terminal-black?style=plastic&logo=apple&logoColor=white) ![tableau](https://img.shields.io/badge/-Tableau-blue?style=plastic&logo=tableau&logoColor=white) ![excel](https://img.shields.io/badge/-Excel-green?style=plastic&logo=microsoft-excel&logoColor=white) ![google](https://img.shields.io/badge/-Google_Sheets-darkgreen?style=plastic&logo=googlesheets&logoColor=white)  
