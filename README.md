@@ -16,12 +16,12 @@
 </div>
 
 <h3 align="left"> About Me: </h3>
-<a>
+<p>
 - :seedling: I am currently a student Codeup <img src="https://img.shields.io/badge/Codeup-green?logo=Codeup&logoColor=white">, Expected Graduation: June 2022
-</a>
-<a>
+</p>
+<p>
 - :mortar_board: Texas State alumni! BBA in Computer Infomation System(CIS) - August 2020
-</a>
-<a>
+</p>
+<p>
 - :video_game: I play video games in my free time, you might to able find on <img src="https://img.shields.io/badge/Steam-blue?logo=Steam&logoColor=white">
-</a>
+</p>
