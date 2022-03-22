@@ -2,6 +2,7 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"width="150">
 </div>
+---
 
 <h3>:mailbox: Reach me at:</h3>
 
@@ -13,6 +14,7 @@
         <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white">
     </a>
 </div>
+---
 
 <h3 align="left"> About Me: </h3>
 <p>
@@ -24,6 +26,7 @@
 <p>
 - :video_game: I play video games in my free time, you might able to find me on <img src="https://img.shields.io/badge/Steam-blue?logo=Steam&logoColor=white">
 </p>
+---
 
 <h3 align="left">Tools:</h3>
 
@@ -35,6 +38,8 @@
 
 ![scipy](https://img.shields.io/badge/-SciPy-5F5B8F?style=for-the-badge&logo=scipy&logoColor=white) 
 ![sklearn](https://img.shields.io/badge/-SciKit--Learn-5F5B8F?style=for-the-badge&logo=scikit-learn&logoColor=white) ![terminal](https://img.shields.io/badge/-Terminal-black?style=for-the-badge&logo=apple&logoColor=white) ![tableau](https://img.shields.io/badge/-Tableau-blue?style=for-the-badge&logo=tableau&logoColor=white) ![excel](https://img.shields.io/badge/-Excel-green?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![google](https://img.shields.io/badge/-Google_Sheets-darkgreen?style=for-the-badge&logo=googlesheets&logoColor=white)  
+
+---
 
 <h3 align="left">Language:</h3>
 <div>
