@@ -1,7 +1,6 @@
-
 <h1>:wave:Hello, my name is Oliver!</h1>
 <div id="header" align="center">
-    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"width="100">
+    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"width="150">
 </div>
 
 <h3>:mailbox: Reach me at:</h3>
