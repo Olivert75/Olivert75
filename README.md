@@ -31,7 +31,7 @@
 
 <h3 align="left">Tools:</h3>
 
-![jupyter](https://img.shields.io/badge/-Jupyter_Lab-orange?style=for-the-badge&logo=jupyter&logoColor=orange) 
+![jupyter](https://img.shields.io/badge/-Jupyter_Lab-5F5B8F?style=for-the-badge&logo=jupyter&logoColor=orange) 
 ![pandas](https://img.shields.io/badge/-Pandas-darkpurple?style=for-the-badge&logo=pandas&logoColor=white) 
 ![numpy](https://img.shields.io/badge/-NumPy-5F5B8F?style=for-the-badge&logo=numpy&logoColor=D4EFEB) 
 ![sns](https://img.shields.io/badge/-Seaborn-5F5B8F?style=for-the-badge&logo=seaborn&logoColor=D4EFEB) 
