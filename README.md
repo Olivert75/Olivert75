@@ -12,7 +12,6 @@
     <a href= mailto: oliver.ton75@gmail.com>
         <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white">
     </a>
-    <img src="https://komarev.com/ghpvc/?username=Olivert75">
 </div>
 
 <h3 align="left"> About Me: </h3>
@@ -25,3 +24,9 @@
 <p>
 - :video_game: I play video games in my free time, you might able to find me on <img src="https://img.shields.io/badge/Steam-blue?logo=Steam&logoColor=white">
 </p>
+
+<h3 align="left">Tools:</h3>
+<p align="left"> </p>-->
+![jupyter](https://img.shields.io/badge/-Jupyter_Lab-5F5B8F?style=plastic&logo=jupyter&logoColor=D4EFEB) ![pandas](https://img.shields.io/badge/-Pandas-5F5B8F?style=plastic&logo=pandas&logoColor=D4EFEB) ![numpy](https://img.shields.io/badge/-NumPy-5F5B8F?style=plastic&logo=numpy&logoColor=D4EFEB) ![sns](https://img.shields.io/badge/-Seaborn-5F5B8F?style=plastic&logo=github&logoColor=D4EFEB) ![plt](https://img.shields.io/badge/-Matplotlib-5F5B8F?style=plastic&logo=github&logoColor=D4EFEB)
+
+![scipy](https://img.shields.io/badge/-SciPy-5F5B8F?style=plastic&logo=scipy&logoColor=white) ![sklearn](https://img.shields.io/badge/-SciKit--Learn-5F5B8F?style=plastic&logo=scikit-learn&logoColor=white) ![terminal](https://img.shields.io/badge/-Terminal-black?style=plastic&logo=apple&logoColor=white)  ![tableau](https://img.shields.io/badge/-Tableau-blue?style=plastic&logo=tableau&logoColor=white)  ![excel](https://img.shields.io/badge/-Excel-green?style=plastic&logo=microsoft-excel&logoColor=white) ![google](https://img.shields.io/badge/-Google_Sheets-green?style=plastic&logo=googlesheets&logoColor=white)  
