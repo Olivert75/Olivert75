@@ -6,7 +6,7 @@
 <h3>:mailbox: Reach me at:</h3>
 
 <div id="badges">
-    <a href = "https://www.linkedin.com/in/oliver-ton/">
+    <a href = "www.linkedin.com/in/oliver-ton/">
          <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href = "mailto:oliver.ton75@gmail.com">
