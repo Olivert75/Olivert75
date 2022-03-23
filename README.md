@@ -5,12 +5,12 @@
 
 <h3>:mailbox: Reach me at:</h3>
 
-<div id="badge">
-    <a href = "www.linkedin.com/in/oliver-ton">
-         <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white">
+<div id="badges">
+    <a href = "https://www.linkedin.com/in/oliver-ton/">
+         <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href = "mailto:oliver.ton75@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white">
+        <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="gmail Badge"/>
     </a>
 </div>
 
