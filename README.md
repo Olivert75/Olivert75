@@ -18,7 +18,7 @@
 
 <h3 align="left"> About Me: </h3>
 <p>
-- :seedling: I am currently a student at <a href ="https://codeup.com"><img src="https://img.shields.io/badge/Codeup-green?logo=Codeup&logoColor=white"></a>, Expected Graduation: June 2022
+- :seedling: I am a alumni student at <a href ="https://codeup.com"><img src="https://img.shields.io/badge/Codeup-green?logo=Codeup&logoColor=white"></a>, Gradute: June 2022
 </p>
 <p>
 - :mortar_board: Texas State University alumni! BBA in Computer Infomation System(CIS) - August 2020
